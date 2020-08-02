@@ -33,6 +33,14 @@ app.get("/", function (req, res){
   res.send("server is up & running.")
 
 
+  app.listen(3004, function(){
+
+    
+  }
+  
+  )
+
+
 }
 
 
