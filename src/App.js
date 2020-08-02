@@ -29,4 +29,14 @@ function App() {
 const express= require ("express")
 const app= express();
 
+app.get("/", function (req, res){
+
+  
+}
+
+
+
+
+)
+
 export default App;
